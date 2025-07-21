@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2025-07-24",
+    "item": ". AMRIT SUNFLOWE",
+    "quantity": 1.0,
+    "net_rate": 240.0,
+    "net_amount": 240.0,
+    "remarks": "Ujjwa] Acharya",
+    "category": "Groceries"
+  },
+  {
+    "date": "2025-07-24",
+    "item": ". WAI WAI QUICK",
+    "quantity": 1.0,
+    "net_rate": 20.0,
+    "net_amount": 20.0,
+    "remarks": "Ujjwa] Acharya",
+    "category": "Food"
+  },
+  {
+    "date": "2025-07-24",
+    "item": ". WAI WAI CHICKE",
+    "quantity": 2.0,
+    "net_rate": 20.0,
+    "net_amount": 40.0,
+    "remarks": "Ujjwa] Acharya",
+    "category": "Food"
+  },
+  {
+    "date": "2025-07-24",
+    "item": ". WAI WAT QUICK",
+    "quantity": 1.0,
+    "net_rate": 20.0,
+    "net_amount": 20.0,
+    "remarks": "Ujjwa] Acharya",
+    "category": "Food"
+  },
+  {
+    "date": "2025-07-24",
+    "item": ". BRITANNIA TIGE",
+    "quantity": 1.0,
+    "net_rate": 18.0,
+    "net_amount": 18.0,
+    "remarks": "Ujjwa] Acharya",
+    "category": "Food"
+  }
+]
