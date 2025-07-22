@@ -20,3 +20,5 @@ EXPOSE 8000
 
 # Start FastAPI with uvicorn
 CMD ["uvicorn", "App:app", "--host", "0.0.0.0", "--port", "8000"]
+
+RUN python -c "import nltk; nltk.download('punkt', download_dir='./nltk_data')"
