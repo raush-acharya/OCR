@@ -5,5 +5,5 @@ opencv-python>=4.9.0.80
 numpy>=1.26.4
 pillow>=10.3.0
 rapidfuzz>=3.6.1
-nltk
-python-multipart
+nltk>=3.8.1
+python-multipart>=0.0.9
