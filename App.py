@@ -11,6 +11,10 @@ app = FastAPI(
     version="1.0.0"
 )
 
+@app.get("/")
+async def root():
+    return {"status": "Bill OCR API is live"}
+
 @app.post("/process-bill")
 async def process_bill(file: UploadFile = File(...)):
     """
