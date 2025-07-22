@@ -8,7 +8,7 @@ import re
 from rapidfuzz import fuzz
 from datetime import datetime
 
-nltk.data.path.append("./nltk_data")a
+nltk.data.path.append("./nltk_data")
 
 # Windows only: uncomment and set path to your Tesseract binary
 # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
