@@ -8,11 +8,10 @@ import re
 from rapidfuzz import fuzz
 from datetime import datetime
 
-# Only needed first time
-nltk.download("wordnet")
+nltk.data.path.append("./nltk_data")a
 
 # Windows only: uncomment and set path to your Tesseract binary
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
 def extract_clean_date(lines):
